@@ -1,0 +1,7 @@
+Para entrar en entorno virtual:
+
+ll_env\Scripts\activate
+
+Para iniciar el servidor:
+
+python manage.py runserver
